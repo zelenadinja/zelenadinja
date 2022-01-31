@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zelenadinja
 - 👀 I’m interested in spending money on cloud and bending NNs to my will.
-- 🌱 I’m currently learning Data Flywheel
+- 🌱 ONNX
 - 📫 How to reach me zelenadinja@gmail.com
 
 <!---
