@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zelenadinja
-- 👀 I’m interested in spending money on cloud and bending NNs to my will.
-- 🌱 ONNX
+- 👀 I’m interested in spending money on AWS
 - 📫 How to reach me zelenadinja@gmail.com
 
 <!---
